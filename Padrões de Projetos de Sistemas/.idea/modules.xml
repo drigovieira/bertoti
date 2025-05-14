@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Composite/Anti-Pattern Composite/Anti-Pattern Composite.iml" filepath="$PROJECT_DIR$/Composite/Anti-Pattern Composite/Anti-Pattern Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Anti-Pattern Observer/Anti-Pattern Observer.iml" filepath="$PROJECT_DIR$/Observer/Anti-Pattern Observer/Anti-Pattern Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Anti-Pattern Strategy/Anti-Pattern Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Anti-Pattern Strategy/Anti-Pattern Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Padrões de Projetos de Sistemas.iml" filepath="$PROJECT_DIR$/.idea/Padrões de Projetos de Sistemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Pattern Composite/Pattern Composite.iml" filepath="$PROJECT_DIR$/Composite/Pattern Composite/Pattern Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Pattern Observer/Pattern Observer.iml" filepath="$PROJECT_DIR$/Observer/Pattern Observer/Pattern Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Pattern Singleton/Pattern Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Pattern Singleton/Pattern Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Pattern Strategy/Pattern Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Pattern Strategy/Pattern Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+    </modules>
+  </component>
+</project>
